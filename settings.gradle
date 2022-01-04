@@ -1,0 +1,2 @@
+rootProject.name = "BikeFinder"
+include ':app'
